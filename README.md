@@ -1,20 +1,3 @@
 <div align="center">
-  <img
-  src="https://readme-typing-svg.demolab.com?
-    font=Inconsolata
-    &weight=500
-    &size=50
-    &duration=4000
-    &pause=300
-    &color=FFA500      
-    &center=true
-    &vCenter=true
-    &multiline=false
-    &repeat=false
-    &random=false
-    &width=800
-    &height=140
-    &lines=Hello+I%27m+Baifern"
-  width="70%"
-  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A429&center=true&vCenter=true&width=435&lines=Hello+I'm+Baifern" alt="Typing SVG" /></a>
 </div>
