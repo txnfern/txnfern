@@ -5,6 +5,5 @@
      ...
   </pre>
   <br><br>
-  <a  href="https://github.com/txnfern">
-  ![](https://raw.githubusercontent.com/txnfern/profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg)
+
 </div>
