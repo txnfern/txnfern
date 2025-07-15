@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🙋‍♀️ Hey there, I'm Tonfern
 
-<!--
-**txnfern/txnfern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YourName.YourName&theme=dark" alt="visitors"/>
 
-Here are some ideas to get you started:
+  <!-- Social Links -->
+  <a href="https://github.com/YourName"><img src="https://img.shields.io/badge/GitHub-YourName-181717?style=flat&logo=github" /></a>
+  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-YourID-0A66C2?style=flat&logo=linkedin" /></a>
+  <!-- เพิ่ม Twitter / Instagram / Medium / Telegram / WhatsApp ตามชอบ -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=txnfern&show_icons=true&theme=dark" />
+
+  <!-- Top languages by repo -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txnfern&layout=compact&theme=dark" />
+
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=txnfern&theme=dark&no-frame=true&column=7" />
+
+  <!-- Contributions graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txnfern&theme=dark&hide_border=true" />
+
+</div>
+
