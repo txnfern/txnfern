@@ -1,4 +1,5 @@
-<img
+<div align="center">
+  <img
   src="https://readme-typing-svg.demolab.com?
     font=Inconsolata
     &weight=500
@@ -15,4 +16,5 @@
     &height=140
     &lines=Hello+I%27m+Baifern"
   width="70%"
-/>
+  />
+</div>
