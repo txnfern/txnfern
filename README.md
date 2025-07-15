@@ -5,10 +5,17 @@
      ...
   </pre>
   <br><br>
-  <a href="https://github.com/txnfern/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txnfern&repo=github-readme-stats&theme=buefy" />
-  </a>
-  <a href="https://github.com/txnfern/txnfern.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txnfern&repo=anuraghazra.github.io&theme=buefy" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=txnfern
+      &show_icons=true
+      &count_private=true
+      &include_all_commits=true
+      &hide_title=false
+      &custom_title=Baifern%27s+GitHub+Stats
+      &theme=radical
+      &bg_color=ffffff00
+      &hide_border=true"
+    alt="Baifern's GitHub Stats"
+    width="30%"
+  />
 </div>
