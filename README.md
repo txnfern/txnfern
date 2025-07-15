@@ -5,17 +5,14 @@
      ...
   </pre>
   <br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=txnfern
-      &show_icons=true
-      &count_private=true
-      &include_all_commits=true
-      &hide_title=false
-      &custom_title=Baifern%27s+GitHub+Stats
-      &theme=radical
-      &bg_color=ffffff00
-      &hide_border=true"
-    alt="Baifern's GitHub Stats"
-    width="30%"
-  />
+</div>
+
+<div align="center">
+
+  <!-- Overall stats -->
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=txnfern&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+
+  <!-- Top languages by repo -->
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txnfern&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+
 </div>
