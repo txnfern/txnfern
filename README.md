@@ -2,13 +2,6 @@
 
 <div align="center">
   
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YourName.YourName&theme=dark" alt="visitors"/>
-
-  <!-- Social Links -->
-  <a href="https://github.com/YourName"><img src="https://img.shields.io/badge/GitHub-YourName-181717?style=flat&logo=github" /></a>
-  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-YourID-0A66C2?style=flat&logo=linkedin" /></a>
-  <!-- เพิ่ม Twitter / Instagram / Medium / Telegram / WhatsApp ตามชอบ -->
 </div>
 
 ---
